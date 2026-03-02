@@ -40,12 +40,5 @@ Results-driven Data Professional with a Master’s in Information Technology and
 
 ---
 
-### 📊 GitHub Stats
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthik070398&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik070398&layout=compact&theme=radical)
-
----
-
 ### 📫 Let's Connect
-* **Email:** [Your Email via LinkedIn]
-* **Portfolio:** [Link to your Capstone or Website]
+* **Email:** kvenugopal019@gmail.com
