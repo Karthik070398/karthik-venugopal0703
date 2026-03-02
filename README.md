@@ -1,52 +1,51 @@
-### Hi there, I'm Karthik! 👋
+# Karthik Venugopal | Data Science & ML Engineer 🚀
 
-I'm a data-driven problem solver and engineer, currently pursuing my Master's in Information Technology (Data Science) at Franklin University. I am blending my **5 years of large-scale operations and data analysis experience** from **Uber** and **Amazon**  with advanced machine learning and software engineering skills.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karthik-venugopal0703/) 
+![Location](https://img.shields.io/badge/Location-Dublin,%20OH-orange?style=for-the-badge)
 
-My background is in Computer Engineering, and I thrive on translating complex business needs into technical solutions , analyzing performance data with **SQL** and **Python** , and building efficient, automated systems.
-
----
-
-### 🚀 What I'm Focused On
-
-* 🌱 Current State: Recently graduated and actively seeking full-time Data Scientist, Machine Learning Engineer, or Data Analyst roles.
-* 💡 Technical Passion: Building and deploying end-to-end ML pipelines with a heavy focus on MLOps (CI/CD/CT) to ensure model reliability in production.
-* 👀 Innovation: Exploring the intersection of NLP and predictive analytics to solve real-world fraud and risk challenges.
+### Summary
+Results-driven Data Professional with a Master’s in Information Technology and 5+ years of experience at **Uber** and **Amazon**. I bridge the gap between complex operations and technical machine learning solutions, specializing in fraud detection systems and algorithmic trading.
 
 ---
 
-### 🛠️ My Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Programming & Databases** |`Python` `SQL` `Java` `C++`|
-| **Data Science & ML** |`Pandas` `NumPy` `Scikit-learn` `TensorFlow` `Keras` `NLTK` `Matplotlib`|
-| **Tools & Platforms** |`Git` `Docker` `Jenkins` `JIRA` `Tableau` `Agile Methodologies`|
-| **Core Concepts** |`Machine Learning` `Data Mining` `Data Visualization` `CI/CD/CT`|
+### 🛠 Technical Arsenal
+* **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL (PostgreSQL, MySQL).
+* **Data Science:** Predictive Modeling, Neural Networks, Time-Series Analysis, Feature Engineering.
+* **DevOps/MLOps:** Docker, CI/CD Pipelines, GitHub Actions, MLflow.
+* **Soft Skills:** Stakeholder Management, Cross-functional Collaboration, Ambiguous Problem Solving.
 
 ---
 
-### 📂 Featured Projects
+### 🌟 Featured Projects
 
-These are the key projects from my portfolio. I plan to add more soon!
+#### 🛡️ [Real-Time Fraud Detection System](https://github.com/Karthik070398/fraud-detection)
+* **Accomplished** a 94% recall rate on fraudulent transactions as **measured by** precision-recall AUC, **by doing** implementation of an automated Scikit-Learn pipeline.
+* **Integrated** a CI/CD/CT (Continuous Training) framework to ensure model drift is mitigated in real-time production environments.
 
-**1. Real-Time Fraud Detection System (MLOps)** 
-* **Description:** Designed an ML system (Logistic Regression, Random Forest) to detect fraudulent transactions in real-time with over 98% accuracy.
-* **Key Feature:** Engineered a full **CI/CD/CT (Continuous Integration/Delivery/Training)** pipeline to automatically test, deploy, and retrain the model.
-* **Tech:** `Python` `Scikit-learn` `TensorFlow` `Keras` `SQL` `Docker` `Jenkins` `Git`
-
-**2. Spam Email Classification (NLP)** 
-* **Description:** Developed a logistic regression model with 95% accuracy to classify emails.
-* **Key Feature:** Performed extensive data cleaning and feature engineering using **TF-IDF** and **Count Vectorizer**.
-* **Tech:** `Python` `Pandas` `Scikit-learn` `NLTK` `Matplotlib`
-
-**3.Customer Segmentation (Clustering)**
-* **Description:** Implemented the k-means clustering algorithm to segment a plant dataset.
-* **Key Feature:** Utilized the **"Elbow Method"** to determine the optimal number of clusters.
-* **Tech:** `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
+#### 📈 [Sentinel-Trader: Algorithmic Bot](https://github.com/Karthik070398/trading-bot)
+* **Accomplished** a [X]% increase in backtested ROI as **measured by** the Sharpe Ratio, **by doing** development of a modular RSI/Mean-Reversion strategy in Python.
+* **Mitigated** capital risk by implementing a hard-coded "Circuit Breaker" protocol that halts trading at a 3% daily drawdown.
 
 ---
 
-### 📫 How to Reach Me
+### 💼 Professional Snapshot
 
-* **Email:** [kvenugopal019@gmail.com](mailto:kvenugopal019@gmail.com) 
-* **LinkedIn:** [linkedin.com/in/karthik-venugopal0703](https://linkedin.com/in/karthik-venugopal0703)
+**Uber | Global Knowledge Specialist & Risk Investigator** (Jan 2021 – Aug 2024)
+* **Accomplished** a 15% reduction in fraudulent account activation as measured by weekly risk-flag reports, by developing custom Python scripts to automate detection workflows.
+* **Accomplished** a 22% increase in global team productivity as measured by KB utility scores, by restructuring cross-functional documentation for 400+ investigators.
+* **Accomplished** the mitigation of significant financial loss as measured by quarterly recovery audits, by identifying systemic loopholes through SQL-based trend analysis.
+
+**Amazon | Digital & Tech Support** (Aug 2019 – Sept 2020)
+* **Accomplished** a 98% customer satisfaction rating as measured by post-interaction surveys, by resolving complex technical hardware/software issues for a global user base.
+
+---
+
+### 📊 GitHub Stats
+![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthik070398&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik070398&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect
+* **Email:** [Your Email via LinkedIn]
+* **Portfolio:** [Link to your Capstone or Website]
